@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b34833-35f5-441c-b9a2-47c8b9620450" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snakeGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeGame/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snakeGame/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeGame/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snakeGame/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakeGame/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652848089995</updated>
     </task>
+    <task id="LOCAL-00001" summary="Terminando o jogo da cobrinha">
+      <created>1652925647511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652925647511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,11 +130,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminando o jogo da cobrinha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminando o jogo da cobrinha" />
   </component>
 </project>

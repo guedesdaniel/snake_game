@@ -56,3 +56,10 @@ class Snake(Turtle):
     def move_right(self):
         if self.head.heading() != LEFT:
             self.head.seth(RIGHT)
+
+    def reset(self):
+        for part in self.body:
+            part.goto(1000,1000)
+        self.body.clear()
+        self.create_body()
+        self.head = self.body[0]
